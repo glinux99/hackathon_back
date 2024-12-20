@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Plaque']
+
+roboflow:
+  workspace: safecitizen-controller
+  project: detection-de-plaques
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/safecitizen-controller/detection-de-plaques/dataset/3
