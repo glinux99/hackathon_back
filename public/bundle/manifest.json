@@ -1,0 +1,74 @@
+{
+  "_html2canvas-4a58585b.js": {
+    "file": "assets/html2canvas-4a58585b.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "assets/img/logo.png": {
+    "file": "assets/logo-9d032d3f.png",
+    "src": "assets/img/logo.png"
+  },
+  "node_modules/canvg/lib/index.es.js": {
+    "file": "assets/index.es-e7d729cb.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "node_modules/canvg/lib/index.es.js"
+  },
+  "node_modules/dompurify/dist/purify.es.js": {
+    "file": "assets/purify.es-cf254a40.js",
+    "isDynamicEntry": true,
+    "src": "node_modules/dompurify/dist/purify.es.js"
+  },
+  "node_modules/leaflet/dist/images/layers-2x.png": {
+    "file": "assets/layers-2x-066daca8.png",
+    "src": "node_modules/leaflet/dist/images/layers-2x.png"
+  },
+  "node_modules/leaflet/dist/images/layers.png": {
+    "file": "assets/layers-1dbbe9d0.png",
+    "src": "node_modules/leaflet/dist/images/layers.png"
+  },
+  "node_modules/leaflet/dist/images/marker-icon-2x.png": {
+    "file": "assets/marker-icon-2x-00179c4c.png",
+    "src": "node_modules/leaflet/dist/images/marker-icon-2x.png"
+  },
+  "node_modules/leaflet/dist/images/marker-icon.png": {
+    "file": "assets/marker-icon-574c3a5c.png",
+    "src": "node_modules/leaflet/dist/images/marker-icon.png"
+  },
+  "node_modules/leaflet/dist/images/marker-shadow.png": {
+    "file": "assets/marker-shadow-264f5c64.png",
+    "src": "node_modules/leaflet/dist/images/marker-shadow.png"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-78855f6e.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/logo-9d032d3f.png",
+      "assets/layers-1dbbe9d0.png",
+      "assets/layers-2x-066daca8.png",
+      "assets/marker-icon-574c3a5c.png"
+    ],
+    "css": [
+      "assets/app-78855f6e.css"
+    ],
+    "dynamicImports": [
+      "_html2canvas-4a58585b.js",
+      "node_modules/dompurify/dist/purify.es.js",
+      "node_modules/canvg/lib/index.es.js"
+    ],
+    "file": "assets/app-dbe82626.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-041e359a.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
